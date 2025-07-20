@@ -24,7 +24,7 @@ fpga-order-book/<br>
 
 ## 📊 Sample Waveform
 
-![Waveform](waveforms/screenshots/order_book_best_bid_ask.png)
+![Waveform](waveforms/order_book_best_bid_ask.png)
 
 ## 💬 tcl-console output
 
