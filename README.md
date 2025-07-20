@@ -11,13 +11,17 @@ A high-performance, hardware-simulated order book modeled after modern exchange 
 - Fully testbenched with waveform inspection
 
 ## 📂 Project Structure
-fpga-order-book/
-├── rtl/
-│   └── order_book.sv
-│   └── parser_defs.sv
-├── sim/
-│   └── order_book_tb.sv
-├── waveforms/
-│   └── screenshots/ (store annotated waveform images)
-├── README.md
-└── .gitignore
+fpga-order-book/<br>
+├── rtl/<br>
+│   └── order_book.sv<br>
+│   └── parser_defs.sv<br>
+├── sim/<br>
+│   └── order_book_tb.sv<br>
+├── waveforms/<br>
+│   └── screenshots/ (store annotated waveform images)<br>
+├── README.md<br>
+└── .gitignore<br>
+
+## 📊 Sample Waveform
+
+![Waveform](waveforms/screenshots/order_book_best_bid_ask.png)
